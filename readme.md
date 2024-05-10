@@ -60,7 +60,7 @@
 			 --PRIMERS sarscov2_swift_v2
 3. Run extract_fastqs_from_taylor.sh on the sorted bam files in the TAYLOR output directory:
 
-   		./extract_fastqs_from_taylor.sh [path to bam files from TAYLOR output] [path to NC_045512.2.fasta, including filename]
+   		./extract_fastqs_from_taylor.sh [path to bam files from TAYLOR output] [full path to NC_045512.2.fasta, including filename]
 	
 5. Run RAVA on the extracted fastqs, using inoculum consensus fasta and gff files. For the RAVA metadata file, use the "Passage" names provided in **supplemental_tables/sample_metadata.csv** in this repository:
 
@@ -79,3 +79,5 @@
    		Rscript figure3H_NGS_final.R [full path to directory that contains all the RAVA output directories]
 
 ## **Alternatively, simply download this repository and run figure3H_NGS_final.R using the local path to this repository as the RAVA parent directory. You can either edit the hard-coded RAVA parent directory in the script, or provide it as the first command-line argument.**
+		git clone git@github.com:greninger-lab/sars-cov-2_mouse_model_supp.git
+  		Rscript sars-cov-2_mouse_model_supp/bin/figure3H_NGS_final.R "$(pwd)/sars-cov-2_mouse_model_supp/"
