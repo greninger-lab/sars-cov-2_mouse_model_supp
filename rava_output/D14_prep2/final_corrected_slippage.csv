@@ -1,0 +1,382 @@
+Sample,Amino Acid Change,Position,AF,Change,Protein,NucleotideChange,LetterChange,Syn,Depth,Passage,MatPeptide
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein Y182Y,757,1.14,Y182Y,ORF1ab_polyprotein,C546T,C to T,synonymous SNV,14960,Vehicle_D14_1_prep2,nsp2: Y2Y; C6T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein T346A,1247,17.83,T346A,ORF1ab_polyprotein,A1036G,A to G,nonsynonymous SNV,7402,Vehicle_D14_1_prep2,nsp2: T166A; A496G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein S588S,1975,18.39,S588S,ORF1ab_polyprotein,T1764G,T to G,synonymous SNV,23300,Vehicle_D14_1_prep2,nsp2: S408S; T1224G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein M902V,2915,2.18,M902V,ORF1ab_polyprotein,A2704G,A to G,nonsynonymous SNV,23868,Vehicle_D14_1_prep2,nsp3: M84V; A250G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein P1265L,4005,7.83,P1265L,ORF1ab_polyprotein,C3794T,C to T,nonsynonymous SNV,2964,Vehicle_D14_1_prep2,nsp3: P447L; C1340T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein A1508V,4734,4.47,A1508V,ORF1ab_polyprotein,C4523T,C to T,nonsynonymous SNV,8106,Vehicle_D14_1_prep2,nsp3: A690V; C2069T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein G1705D,5325,1.5,G1705D,ORF1ab_polyprotein,G5114A,G to A,nonsynonymous SNV,1334,Vehicle_D14_1_prep2,nsp3: G887D; G2660A
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein K1781K,5554,3.9,K1781K,ORF1ab_polyprotein,A5343G,A to G,synonymous SNV,11428,Vehicle_D14_1_prep2,nsp3: K963K; A2889G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein K2143R,6639,1,K2143R,ORF1ab_polyprotein,A6428G,A to G,nonsynonymous SNV,16178,Vehicle_D14_1_prep2,nsp3: K1325R; A3974G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein T2283I,7059,7.16,T2283I,ORF1ab_polyprotein,C6848T,C to T,nonsynonymous SNV,7516,Vehicle_D14_1_prep2,nsp3: T1465I; C4394T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein L2292F,7085,1.82,L2292F,ORF1ab_polyprotein,C6874T,C to T,nonsynonymous SNV,7462,Vehicle_D14_1_prep2,nsp3: L1474F; C4420T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein T2300I,7110,1.42,T2300I,ORF1ab_polyprotein,C6899T,C to T,nonsynonymous SNV,1266,Vehicle_D14_1_prep2,nsp3: T1482I; C4445T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein F2334F,7213,4.19,F2334F,ORF1ab_polyprotein,C7002T,C to T,synonymous SNV,4918,Vehicle_D14_1_prep2,nsp3: F1516F; C4548T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein I2346I,7249,1.02,I2346I,ORF1ab_polyprotein,C7038T,C to T,synonymous SNV,5296,Vehicle_D14_1_prep2,nsp3: I1528I; C4584T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein N2539S,7827,1.17,N2539S,ORF1ab_polyprotein,A7616G,A to G,nonsynonymous SNV,9580,Vehicle_D14_1_prep2,nsp3: N1721S; A5162G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein G2863V,8799,1.33,G2863V,ORF1ab_polyprotein,G8588T,G to T,nonsynonymous SNV,4645,Vehicle_D14_1_prep2,nsp4: G100V; G299T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein T2936T,9019,17.12,T2936T,ORF1ab_polyprotein,C8808T,C to T,synonymous SNV,28164,Vehicle_D14_1_prep2,nsp4: T173T; C519T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein I3055I,9376,1.74,I3055I,ORF1ab_polyprotein,C9165T,C to T,synonymous SNV,12066,Vehicle_D14_1_prep2,nsp4: I292I; C876T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein T3058I,9384,2.08,T3058I,ORF1ab_polyprotein,C9173T,C to T,nonsynonymous SNV,12120,Vehicle_D14_1_prep2,nsp4: T295I; C884T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein Y3074Y,9433,1.42,Y3074Y,ORF1ab_polyprotein,C9222T,C to T,synonymous SNV,12086,Vehicle_D14_1_prep2,nsp4: Y311Y; C933T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein A3079A,9448,3,A3079A,ORF1ab_polyprotein,C9237T,C to T,synonymous SNV,12050,Vehicle_D14_1_prep2,nsp4: A316A; C948T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein Y3109Y,9538,1.12,Y3109Y,ORF1ab_polyprotein,C9327T,C to T,synonymous SNV,3378,Vehicle_D14_1_prep2,nsp4: Y346Y; C1038T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein F3138F,9625,1.09,F3138F,ORF1ab_polyprotein,C9414T,C to T,synonymous SNV,736,Vehicle_D14_1_prep2,nsp4: F375F; C1125T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein N3414N,10453,1.99,N3414N,ORF1ab_polyprotein,C10242T,C to T,synonymous SNV,25656,Vehicle_D14_1_prep2,3C-like_proteinase: N151N; C453T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein L3644F,11141,10.19,L3644F,ORF1ab_polyprotein,C10930T,C to T,nonsynonymous SNV,14156,Vehicle_D14_1_prep2,nsp6: L75F; C223T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein R3662C,11195,12.58,R3662C,ORF1ab_polyprotein,C10984T,C to T,nonsynonymous SNV,4580,Vehicle_D14_1_prep2,nsp6: R93C; C277T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein Y3810Y,11641,3.48,Y3810Y,ORF1ab_polyprotein,C11430T,C to T,synonymous SNV,19260,Vehicle_D14_1_prep2,nsp6: Y241Y; C723T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein K3836K,11719,1.28,K3836K,ORF1ab_polyprotein,A11508G,A to G,synonymous SNV,28886,Vehicle_D14_1_prep2,nsp6: K267K; A801G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein D3933D,12010,16.56,D3933D,ORF1ab_polyprotein,C11799T,C to T,synonymous SNV,29989,Vehicle_D14_1_prep2,nsp7: D77D; C231T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein N3934N,12013,2.1,N3934N,ORF1ab_polyprotein,C11802T,C to T,synonymous SNV,29891,Vehicle_D14_1_prep2,nsp7: N78N; C234T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein L3974F,12131,6.72,L3974F,ORF1ab_polyprotein,C11920T,C to T,nonsynonymous SNV,4318,Vehicle_D14_1_prep2,nsp8: L35F; C103T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein T4028I,12294,16.46,T4028I,ORF1ab_polyprotein,C12083T,C to T,nonsynonymous SNV,40154,Vehicle_D14_1_prep2,nsp8: T89I; C266T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein N4075S,12435,5.36,N4075S,ORF1ab_polyprotein,A12224G,A to G,nonsynonymous SNV,9882,Vehicle_D14_1_prep2,nsp8: N136S; A407G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein L4108F,12533,4.35,L4108F,ORF1ab_polyprotein,C12322T,C to T,nonsynonymous SNV,19506,Vehicle_D14_1_prep2,nsp8: L169F; C505T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein T4172I,12726,2.41,T4172I,ORF1ab_polyprotein,C12515T,C to T,nonsynonymous SNV,22687,Vehicle_D14_1_prep2,nsp9: T35I; C104T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein C4784C,14562,1.19,C4784C,ORF1ab_polyprotein,C14352T,C to T,synonymous SNV,7376,Vehicle_D14_1_prep2,RNA-dependent_RNA_polymerase_rib_26: C395C; C1185T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein D5007D,15231,6.79,D5007D,ORF1ab_polyprotein,T15021C,T to C,synonymous SNV,26694,Vehicle_D14_1_prep2,RNA-dependent_RNA_polymerase_rib_26: D618D; T1854C
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein S5401G,16411,3.1,S5401G,ORF1ab_polyprotein,A16201G,A to G,nonsynonymous SNV,1226,Vehicle_D14_1_prep2,helicase: S80G; A238G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein S5580L,16949,6.18,S5580L,ORF1ab_polyprotein,C16739T,C to T,nonsynonymous SNV,7604,Vehicle_D14_1_prep2,helicase: S259L; C776T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein T5938I,18023,1.68,T5938I,ORF1ab_polyprotein,C17813T,C to T,nonsynonymous SNV,16976,Vehicle_D14_1_prep2,3'-to-5'_exonuclease: T16I; C47T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein V5962V,18096,1.5,V5962V,ORF1ab_polyprotein,T17886C,T to C,synonymous SNV,534,Vehicle_D14_1_prep2,3'-to-5'_exonuclease: V40V; T120C
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein F6139L,18625,1.08,F6139L,ORF1ab_polyprotein,T18415C,T to C,nonsynonymous SNV,6900,Vehicle_D14_1_prep2,3'-to-5'_exonuclease: F217L; T649C
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein D6324D,19182,1.28,D6324D,ORF1ab_polyprotein,C18972T,C to T,synonymous SNV,5936,Vehicle_D14_1_prep2,3'-to-5'_exonuclease: D402D; C1206T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein T6397T,19401,16.57,T6397T,ORF1ab_polyprotein,A19191G,A to G,synonymous SNV,1376,Vehicle_D14_1_prep2,3'-to-5'_exonuclease: T475T; A1425G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein F6662F,20196,3.15,F6662F,ORF1ab_polyprotein,C19986T,C to T,synonymous SNV,3238,Vehicle_D14_1_prep2,endoRNAse: F213F; C639T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein L6663L,20199,1.17,L6663L,ORF1ab_polyprotein,A19989G,A to G,synonymous SNV,3260,Vehicle_D14_1_prep2,endoRNAse: L214L; A642G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein N6726N,20388,5.28,N6726N,ORF1ab_polyprotein,C20178T,C to T,synonymous SNV,5190,Vehicle_D14_1_prep2,endoRNAse: N277N; C831T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein D6749N,20455,1.14,D6749N,ORF1ab_polyprotein,G20245A,G to A,nonsynonymous SNV,702,Vehicle_D14_1_prep2,endoRNAse: D300N; G898A
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein D6772D,20526,1.07,D6772D,ORF1ab_polyprotein,C20316T,C to T,synonymous SNV,750,Vehicle_D14_1_prep2,endoRNAse: D323D; C969T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein P6802S,20614,1.76,P6802S,ORF1ab_polyprotein,C20404T,C to T,nonsynonymous SNV,568,Vehicle_D14_1_prep2,2'-O-ribose_methyltransferase: P7S; C19T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein T6888A,20872,3.19,T6888A,ORF1ab_polyprotein,A20662G,A to G,nonsynonymous SNV,814,Vehicle_D14_1_prep2,2'-O-ribose_methyltransferase: T93A; A277G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein N7093N,21489,1.43,N7093N,ORF1ab_polyprotein,C21279T,C to T,synonymous SNV,840,Vehicle_D14_1_prep2,2'-O-ribose_methyltransferase: N298N; C894T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,surface_glycoprotein T20T,21559,2.86,T20T,surface_glycoprotein,C60T,C to T,synonymous SNV,1680,Vehicle_D14_1_prep2,-
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,surface_glycoprotein G184D,22050,2.01,G184D,surface_glycoprotein,G551A,G to A,nonsynonymous SNV,398,Vehicle_D14_1_prep2,-
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,surface_glycoprotein R680W,23537,2.79,R680W,surface_glycoprotein,C2038T,C to T,nonsynonymous SNV,12778,Vehicle_D14_1_prep2,-
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF3a_protein L129F,25705,1.27,L129F,ORF3a_protein,C385T,C to T,nonsynonymous SNV,14290,Vehicle_D14_1_prep2,-
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,envelope_protein T30I,26261,13.36,T30I,envelope_protein,C89T,C to T,nonsynonymous SNV,47688,Vehicle_D14_1_prep2,-
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,membrane_glycoprotein L134L,26852,1.06,L134L,membrane_glycoprotein,A402G,A to G,synonymous SNV,8147,Vehicle_D14_1_prep2,-
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF10_protein P10S,29513,1.08,P10S,ORF10_protein,C28T,C to T,nonsynonymous SNV,25463,Vehicle_D14_1_prep2,-
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF10_protein Y26Y,29563,9.47,Y26Y,ORF10_protein,C78T,C to T,synonymous SNV,40109,Vehicle_D14_1_prep2,-
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF10_protein T38I,29598,4.32,T38I,ORF10_protein,C113T,C to T,nonsynonymous SNV,21480,Vehicle_D14_1_prep2,-
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein Y182Y,757,1.14,Y182Y,ORF1a_polyprotein,C546T,C to T,synonymous SNV,14960,Vehicle_D14_1_prep2,nsp2: Y2Y; C6T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein T346A,1247,17.83,T346A,ORF1a_polyprotein,A1036G,A to G,nonsynonymous SNV,7402,Vehicle_D14_1_prep2,nsp2: T166A; A496G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein S588S,1975,18.39,S588S,ORF1a_polyprotein,T1764G,T to G,synonymous SNV,23300,Vehicle_D14_1_prep2,nsp2: S408S; T1224G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein M902V,2915,2.18,M902V,ORF1a_polyprotein,A2704G,A to G,nonsynonymous SNV,23868,Vehicle_D14_1_prep2,nsp3: M84V; A250G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein P1265L,4005,7.83,P1265L,ORF1a_polyprotein,C3794T,C to T,nonsynonymous SNV,2964,Vehicle_D14_1_prep2,nsp3: P447L; C1340T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein A1508V,4734,4.47,A1508V,ORF1a_polyprotein,C4523T,C to T,nonsynonymous SNV,8106,Vehicle_D14_1_prep2,nsp3: A690V; C2069T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein G1705D,5325,1.5,G1705D,ORF1a_polyprotein,G5114A,G to A,nonsynonymous SNV,1334,Vehicle_D14_1_prep2,nsp3: G887D; G2660A
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein K1781K,5554,3.9,K1781K,ORF1a_polyprotein,A5343G,A to G,synonymous SNV,11428,Vehicle_D14_1_prep2,nsp3: K963K; A2889G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein K2143R,6639,1,K2143R,ORF1a_polyprotein,A6428G,A to G,nonsynonymous SNV,16178,Vehicle_D14_1_prep2,nsp3: K1325R; A3974G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein T2283I,7059,7.16,T2283I,ORF1a_polyprotein,C6848T,C to T,nonsynonymous SNV,7516,Vehicle_D14_1_prep2,nsp3: T1465I; C4394T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein L2292F,7085,1.82,L2292F,ORF1a_polyprotein,C6874T,C to T,nonsynonymous SNV,7462,Vehicle_D14_1_prep2,nsp3: L1474F; C4420T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein T2300I,7110,1.42,T2300I,ORF1a_polyprotein,C6899T,C to T,nonsynonymous SNV,1266,Vehicle_D14_1_prep2,nsp3: T1482I; C4445T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein F2334F,7213,4.19,F2334F,ORF1a_polyprotein,C7002T,C to T,synonymous SNV,4918,Vehicle_D14_1_prep2,nsp3: F1516F; C4548T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein I2346I,7249,1.02,I2346I,ORF1a_polyprotein,C7038T,C to T,synonymous SNV,5296,Vehicle_D14_1_prep2,nsp3: I1528I; C4584T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein N2539S,7827,1.17,N2539S,ORF1a_polyprotein,A7616G,A to G,nonsynonymous SNV,9580,Vehicle_D14_1_prep2,nsp3: N1721S; A5162G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein G2863V,8799,1.33,G2863V,ORF1a_polyprotein,G8588T,G to T,nonsynonymous SNV,4645,Vehicle_D14_1_prep2,nsp4: G100V; G299T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein T2936T,9019,17.12,T2936T,ORF1a_polyprotein,C8808T,C to T,synonymous SNV,28164,Vehicle_D14_1_prep2,nsp4: T173T; C519T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein I3055I,9376,1.74,I3055I,ORF1a_polyprotein,C9165T,C to T,synonymous SNV,12066,Vehicle_D14_1_prep2,nsp4: I292I; C876T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein T3058I,9384,2.08,T3058I,ORF1a_polyprotein,C9173T,C to T,nonsynonymous SNV,12120,Vehicle_D14_1_prep2,nsp4: T295I; C884T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein Y3074Y,9433,1.42,Y3074Y,ORF1a_polyprotein,C9222T,C to T,synonymous SNV,12086,Vehicle_D14_1_prep2,nsp4: Y311Y; C933T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein A3079A,9448,3,A3079A,ORF1a_polyprotein,C9237T,C to T,synonymous SNV,12050,Vehicle_D14_1_prep2,nsp4: A316A; C948T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein Y3109Y,9538,1.12,Y3109Y,ORF1a_polyprotein,C9327T,C to T,synonymous SNV,3378,Vehicle_D14_1_prep2,nsp4: Y346Y; C1038T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein F3138F,9625,1.09,F3138F,ORF1a_polyprotein,C9414T,C to T,synonymous SNV,736,Vehicle_D14_1_prep2,nsp4: F375F; C1125T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein N3414N,10453,1.99,N3414N,ORF1a_polyprotein,C10242T,C to T,synonymous SNV,25656,Vehicle_D14_1_prep2,3C-like_proteinase: N151N; C453T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein L3644F,11141,10.19,L3644F,ORF1a_polyprotein,C10930T,C to T,nonsynonymous SNV,14156,Vehicle_D14_1_prep2,nsp6: L75F; C223T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein R3662C,11195,12.58,R3662C,ORF1a_polyprotein,C10984T,C to T,nonsynonymous SNV,4580,Vehicle_D14_1_prep2,nsp6: R93C; C277T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein Y3810Y,11641,3.48,Y3810Y,ORF1a_polyprotein,C11430T,C to T,synonymous SNV,19260,Vehicle_D14_1_prep2,nsp6: Y241Y; C723T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein K3836K,11719,1.28,K3836K,ORF1a_polyprotein,A11508G,A to G,synonymous SNV,28886,Vehicle_D14_1_prep2,nsp6: K267K; A801G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein D3933D,12010,16.56,D3933D,ORF1a_polyprotein,C11799T,C to T,synonymous SNV,29989,Vehicle_D14_1_prep2,nsp7: D77D; C231T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein N3934N,12013,2.1,N3934N,ORF1a_polyprotein,C11802T,C to T,synonymous SNV,29891,Vehicle_D14_1_prep2,nsp7: N78N; C234T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein L3974F,12131,6.72,L3974F,ORF1a_polyprotein,C11920T,C to T,nonsynonymous SNV,4318,Vehicle_D14_1_prep2,nsp8: L35F; C103T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein T4028I,12294,16.46,T4028I,ORF1a_polyprotein,C12083T,C to T,nonsynonymous SNV,40154,Vehicle_D14_1_prep2,nsp8: T89I; C266T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein N4075S,12435,5.36,N4075S,ORF1a_polyprotein,A12224G,A to G,nonsynonymous SNV,9882,Vehicle_D14_1_prep2,nsp8: N136S; A407G
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein L4108F,12533,4.35,L4108F,ORF1a_polyprotein,C12322T,C to T,nonsynonymous SNV,19506,Vehicle_D14_1_prep2,nsp8: L169F; C505T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1a_polyprotein T4172I,12726,2.41,T4172I,ORF1a_polyprotein,C12515T,C to T,nonsynonymous SNV,22687,Vehicle_D14_1_prep2,nsp9: T35I; C104T
+240212_GSU_CL_001_turb_veh_D14_1_prep2_S19_L001.fastq.gz,ORF1ab_polyprotein Q6624*,20080,2.28,Q6624*,ORF1ab_polyprotein,C19870T,C to T,stopgain,7453,Vehicle_D14_1_prep2,endoRNAse: Q175*; C523T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein H110Y,539,1.34,H110Y,ORF1ab_polyprotein,C328T,C to T,nonsynonymous SNV,21746,Vehicle_D14_2_prep2,leader_protein: H110Y; C328T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein E489K,1676,1.72,E489K,ORF1ab_polyprotein,G1465A,G to A,nonsynonymous SNV,814,Vehicle_D14_2_prep2,nsp2: E309K; G925A
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein G1333V,4209,1.08,G1333V,ORF1ab_polyprotein,G3998T,G to T,nonsynonymous SNV,1108,Vehicle_D14_2_prep2,nsp3: G515V; G1544T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein P1803S,5618,1.91,P1803S,ORF1ab_polyprotein,C5407T,C to T,nonsynonymous SNV,7434,Vehicle_D14_2_prep2,nsp3: P985S; C2953T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein Y1846C,5748,1.05,Y1846C,ORF1ab_polyprotein,A5537G,A to G,nonsynonymous SNV,5522,Vehicle_D14_2_prep2,nsp3: Y1028C; A3083G
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein K1855K,5776,1.57,K1855K,ORF1ab_polyprotein,G5565A,G to A,synonymous SNV,4318,Vehicle_D14_2_prep2,nsp3: K1037K; G3111A
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein Q1910Q,5941,1.86,Q1910Q,ORF1ab_polyprotein,A5730G,A to G,synonymous SNV,644,Vehicle_D14_2_prep2,nsp3: Q1092Q; A3276G
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein N2111S,6543,1,N2111S,ORF1ab_polyprotein,A6332G,A to G,nonsynonymous SNV,1202,Vehicle_D14_2_prep2,nsp3: N1293S; A3878G
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein T2283I,7059,1.57,T2283I,ORF1ab_polyprotein,C6848T,C to T,nonsynonymous SNV,6880,Vehicle_D14_2_prep2,nsp3: T1465I; C4394T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein L2292F,7085,2.18,L2292F,ORF1ab_polyprotein,C6874T,C to T,nonsynonymous SNV,6802,Vehicle_D14_2_prep2,nsp3: L1474F; C4420T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein T2300I,7110,4.51,T2300I,ORF1ab_polyprotein,C6899T,C to T,nonsynonymous SNV,976,Vehicle_D14_2_prep2,nsp3: T1482I; C4445T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein F2334F,7213,1.95,F2334F,ORF1ab_polyprotein,C7002T,C to T,synonymous SNV,3803,Vehicle_D14_2_prep2,nsp3: F1516F; C4548T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein I2346I,7249,1.17,I2346I,ORF1ab_polyprotein,C7038T,C to T,synonymous SNV,4107,Vehicle_D14_2_prep2,nsp3: I1528I; C4584T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein D2880D,8851,2.85,D2880D,ORF1ab_polyprotein,C8640T,C to T,synonymous SNV,7100,Vehicle_D14_2_prep2,nsp4: D117D; C351T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein V3021V,9274,1.33,V3021V,ORF1ab_polyprotein,A9063G,A to G,synonymous SNV,12330,Vehicle_D14_2_prep2,nsp4: V258V; A774G
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein I3055I,9376,1.11,I3055I,ORF1ab_polyprotein,C9165T,C to T,synonymous SNV,15092,Vehicle_D14_2_prep2,nsp4: I292I; C876T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein Y3074Y,9433,1.15,Y3074Y,ORF1ab_polyprotein,C9222T,C to T,synonymous SNV,13698,Vehicle_D14_2_prep2,nsp4: Y311Y; C933T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein A3079A,9448,1.42,A3079A,ORF1ab_polyprotein,C9237T,C to T,synonymous SNV,13692,Vehicle_D14_2_prep2,nsp4: A316A; C948T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein L3116F,9557,1.18,L3116F,ORF1ab_polyprotein,C9346T,C to T,nonsynonymous SNV,4236,Vehicle_D14_2_prep2,nsp4: L353F; C1057T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein T3598I,11004,1.45,T3598I,ORF1ab_polyprotein,C10793T,C to T,nonsynonymous SNV,4960,Vehicle_D14_2_prep2,nsp6: T29I; C86T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein V3629V,11098,3.16,V3629V,ORF1ab_polyprotein,C10887T,C to T,synonymous SNV,16704,Vehicle_D14_2_prep2,nsp6: V60V; C180T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein L3636F,11117,2.17,L3636F,ORF1ab_polyprotein,C10906T,C to T,nonsynonymous SNV,13636,Vehicle_D14_2_prep2,nsp6: L67F; C199T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein T3646I,11148,1.38,T3646I,ORF1ab_polyprotein,C10937T,C to T,nonsynonymous SNV,12940,Vehicle_D14_2_prep2,nsp6: T77I; C230T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein K3717R,11361,2.11,K3717R,ORF1ab_polyprotein,A11150G,A to G,nonsynonymous SNV,7674,Vehicle_D14_2_prep2,nsp6: K148R; A443G
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein Y3810Y,11641,1.65,Y3810Y,ORF1ab_polyprotein,C11430T,C to T,synonymous SNV,17484,Vehicle_D14_2_prep2,nsp6: Y241Y; C723T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein L3825L,11684,1.42,L3825L,ORF1ab_polyprotein,C11473T,C to T,synonymous SNV,20386,Vehicle_D14_2_prep2,nsp6: L256L; C766T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein D3894D,11893,12.51,D3894D,ORF1ab_polyprotein,C11682T,C to T,synonymous SNV,12468,Vehicle_D14_2_prep2,nsp7: D38D; C114T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein D3933D,12010,12.11,D3933D,ORF1ab_polyprotein,C11799T,C to T,synonymous SNV,30670,Vehicle_D14_2_prep2,nsp7: D77D; C231T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein L4061F,12392,23.27,L4061F,ORF1ab_polyprotein,C12181T,C to T,nonsynonymous SNV,3490,Vehicle_D14_2_prep2,nsp8: L122F; C364T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein L4108F,12533,2.9,L4108F,ORF1ab_polyprotein,C12322T,C to T,nonsynonymous SNV,16768,Vehicle_D14_2_prep2,nsp8: L169F; C505T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein D4163D,12700,2.45,D4163D,ORF1ab_polyprotein,C12489T,C to T,synonymous SNV,24454,Vehicle_D14_2_prep2,nsp9: D26D; C78T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein L4181L,12752,3.31,L4181L,ORF1ab_polyprotein,C12541T,C to T,synonymous SNV,27470,Vehicle_D14_2_prep2,nsp9: L44L; C130T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein R4444R,13542,1.67,R4444R,ORF1ab_polyprotein,C13332T,C to T,synonymous SNV,1316,Vehicle_D14_2_prep2,RNA-dependent_RNA_polymerase_rib_26: R55R; C165T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein A4891A,14883,9.19,A4891A,ORF1ab_polyprotein,T14673C,T to C,synonymous SNV,5068,Vehicle_D14_2_prep2,RNA-dependent_RNA_polymerase_rib_26: A502A; T1506C
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein I4951I,15063,1.91,I4951I,ORF1ab_polyprotein,C14853T,C to T,synonymous SNV,15300,Vehicle_D14_2_prep2,RNA-dependent_RNA_polymerase_rib_26: I562I; C1686T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein L5027L,15291,1.05,L5027L,ORF1ab_polyprotein,T15081G,T to G,synonymous SNV,18800,Vehicle_D14_2_prep2,RNA-dependent_RNA_polymerase_rib_26: L638L; T1914G
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein F5041F,15333,2.7,F5041F,ORF1ab_polyprotein,C15123T,C to T,synonymous SNV,31978,Vehicle_D14_2_prep2,RNA-dependent_RNA_polymerase_rib_26: F652F; C1956T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein D5222D,15876,1.3,D5222D,ORF1ab_polyprotein,T15666C,T to C,synonymous SNV,57738,Vehicle_D14_2_prep2,RNA-dependent_RNA_polymerase_rib_26: D833D; T2499C
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein A5325V,16184,3.21,A5325V,ORF1ab_polyprotein,C15974T,C to T,nonsynonymous SNV,4048,Vehicle_D14_2_prep2,helicase: A4V; C11T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein P5727P,17391,2.73,P5727P,ORF1ab_polyprotein,T17181C,T to C,synonymous SNV,33830,Vehicle_D14_2_prep2,helicase: P406P; T1218C
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein D6721D,20373,4.36,D6721D,ORF1ab_polyprotein,C20163T,C to T,synonymous SNV,5734,Vehicle_D14_2_prep2,endoRNAse: D272D; C816T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein D6928G,20993,1.04,D6928G,ORF1ab_polyprotein,A20783G,A to G,nonsynonymous SNV,966,Vehicle_D14_2_prep2,2'-O-ribose_methyltransferase: D133G; A398G
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein K6955R,21074,1.59,K6955R,ORF1ab_polyprotein,A20864G,A to G,nonsynonymous SNV,5168,Vehicle_D14_2_prep2,2'-O-ribose_methyltransferase: K160R; A479G
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein L7070F,21418,1.84,L7070F,ORF1ab_polyprotein,C21208T,C to T,nonsynonymous SNV,2832,Vehicle_D14_2_prep2,2'-O-ribose_methyltransferase: L275F; C823T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,surface_glycoprotein L5F,21512,1.41,L5F,surface_glycoprotein,C13T,C to T,nonsynonymous SNV,568,Vehicle_D14_2_prep2,-
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,surface_glycoprotein T33I,21597,2.47,T33I,surface_glycoprotein,C98T,C to T,nonsynonymous SNV,1374,Vehicle_D14_2_prep2,-
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,surface_glycoprotein D40D,21619,1.41,D40D,surface_glycoprotein,C120T,C to T,synonymous SNV,1134,Vehicle_D14_2_prep2,-
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,surface_glycoprotein P174P,22021,1.81,P174P,surface_glycoprotein,T522C,T to C,synonymous SNV,332,Vehicle_D14_2_prep2,-
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,surface_glycoprotein G181R,22040,1.2,G181R,surface_glycoprotein,G541A,G to A,nonsynonymous SNV,332,Vehicle_D14_2_prep2,-
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,surface_glycoprotein Y486Y,22957,13.72,Y486Y,surface_glycoprotein,C1458T,C to T,synonymous SNV,554,Vehicle_D14_2_prep2,-
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,surface_glycoprotein S1249F,25245,3.28,S1249F,surface_glycoprotein,C3746T,C to T,nonsynonymous SNV,15790,Vehicle_D14_2_prep2,-
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,envelope_protein T30I,26261,1.01,T30I,envelope_protein,C89T,C to T,nonsynonymous SNV,34342,Vehicle_D14_2_prep2,-
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,nucleocapsid_phosphoprotein P142L,28626,1.18,P142L,nucleocapsid_phosphoprotein,C425T,C to T,nonsynonymous SNV,33690,Vehicle_D14_2_prep2,-
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,nucleocapsid_phosphoprotein Q390L,29370,1.79,Q390L,nucleocapsid_phosphoprotein,A1169T,A to T,nonsynonymous SNV,57356,Vehicle_D14_2_prep2,-
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF10_protein A8A,29509,1.01,A8A,ORF10_protein,T24C,T to C,synonymous SNV,14538,Vehicle_D14_2_prep2,-
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF10_protein Y14C,29526,1.84,Y14C,ORF10_protein,A41G,A to G,nonsynonymous SNV,14494,Vehicle_D14_2_prep2,-
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF10_protein Y26Y,29563,5.77,Y26Y,ORF10_protein,C78T,C to T,synonymous SNV,21666,Vehicle_D14_2_prep2,-
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF10_protein T38I,29598,2.66,T38I,ORF10_protein,C113T,C to T,nonsynonymous SNV,11062,Vehicle_D14_2_prep2,-
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein H110Y,539,1.34,H110Y,ORF1a_polyprotein,C328T,C to T,nonsynonymous SNV,21746,Vehicle_D14_2_prep2,leader_protein: H110Y; C328T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein E489K,1676,1.72,E489K,ORF1a_polyprotein,G1465A,G to A,nonsynonymous SNV,814,Vehicle_D14_2_prep2,nsp2: E309K; G925A
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein G1333V,4209,1.08,G1333V,ORF1a_polyprotein,G3998T,G to T,nonsynonymous SNV,1108,Vehicle_D14_2_prep2,nsp3: G515V; G1544T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein P1803S,5618,1.91,P1803S,ORF1a_polyprotein,C5407T,C to T,nonsynonymous SNV,7434,Vehicle_D14_2_prep2,nsp3: P985S; C2953T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein Y1846C,5748,1.05,Y1846C,ORF1a_polyprotein,A5537G,A to G,nonsynonymous SNV,5522,Vehicle_D14_2_prep2,nsp3: Y1028C; A3083G
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein K1855K,5776,1.57,K1855K,ORF1a_polyprotein,G5565A,G to A,synonymous SNV,4318,Vehicle_D14_2_prep2,nsp3: K1037K; G3111A
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein Q1910Q,5941,1.86,Q1910Q,ORF1a_polyprotein,A5730G,A to G,synonymous SNV,644,Vehicle_D14_2_prep2,nsp3: Q1092Q; A3276G
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein N2111S,6543,1,N2111S,ORF1a_polyprotein,A6332G,A to G,nonsynonymous SNV,1202,Vehicle_D14_2_prep2,nsp3: N1293S; A3878G
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein T2283I,7059,1.57,T2283I,ORF1a_polyprotein,C6848T,C to T,nonsynonymous SNV,6880,Vehicle_D14_2_prep2,nsp3: T1465I; C4394T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein L2292F,7085,2.18,L2292F,ORF1a_polyprotein,C6874T,C to T,nonsynonymous SNV,6802,Vehicle_D14_2_prep2,nsp3: L1474F; C4420T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein T2300I,7110,4.51,T2300I,ORF1a_polyprotein,C6899T,C to T,nonsynonymous SNV,976,Vehicle_D14_2_prep2,nsp3: T1482I; C4445T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein F2334F,7213,1.95,F2334F,ORF1a_polyprotein,C7002T,C to T,synonymous SNV,3803,Vehicle_D14_2_prep2,nsp3: F1516F; C4548T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein I2346I,7249,1.17,I2346I,ORF1a_polyprotein,C7038T,C to T,synonymous SNV,4107,Vehicle_D14_2_prep2,nsp3: I1528I; C4584T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein D2880D,8851,2.85,D2880D,ORF1a_polyprotein,C8640T,C to T,synonymous SNV,7100,Vehicle_D14_2_prep2,nsp4: D117D; C351T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein V3021V,9274,1.33,V3021V,ORF1a_polyprotein,A9063G,A to G,synonymous SNV,12330,Vehicle_D14_2_prep2,nsp4: V258V; A774G
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein I3055I,9376,1.11,I3055I,ORF1a_polyprotein,C9165T,C to T,synonymous SNV,15092,Vehicle_D14_2_prep2,nsp4: I292I; C876T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein Y3074Y,9433,1.15,Y3074Y,ORF1a_polyprotein,C9222T,C to T,synonymous SNV,13698,Vehicle_D14_2_prep2,nsp4: Y311Y; C933T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein A3079A,9448,1.42,A3079A,ORF1a_polyprotein,C9237T,C to T,synonymous SNV,13692,Vehicle_D14_2_prep2,nsp4: A316A; C948T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein L3116F,9557,1.18,L3116F,ORF1a_polyprotein,C9346T,C to T,nonsynonymous SNV,4236,Vehicle_D14_2_prep2,nsp4: L353F; C1057T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein T3598I,11004,1.45,T3598I,ORF1a_polyprotein,C10793T,C to T,nonsynonymous SNV,4960,Vehicle_D14_2_prep2,nsp6: T29I; C86T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein V3629V,11098,3.16,V3629V,ORF1a_polyprotein,C10887T,C to T,synonymous SNV,16704,Vehicle_D14_2_prep2,nsp6: V60V; C180T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein L3636F,11117,2.17,L3636F,ORF1a_polyprotein,C10906T,C to T,nonsynonymous SNV,13636,Vehicle_D14_2_prep2,nsp6: L67F; C199T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein T3646I,11148,1.38,T3646I,ORF1a_polyprotein,C10937T,C to T,nonsynonymous SNV,12940,Vehicle_D14_2_prep2,nsp6: T77I; C230T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein K3717R,11361,2.11,K3717R,ORF1a_polyprotein,A11150G,A to G,nonsynonymous SNV,7674,Vehicle_D14_2_prep2,nsp6: K148R; A443G
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein Y3810Y,11641,1.65,Y3810Y,ORF1a_polyprotein,C11430T,C to T,synonymous SNV,17484,Vehicle_D14_2_prep2,nsp6: Y241Y; C723T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein L3825L,11684,1.42,L3825L,ORF1a_polyprotein,C11473T,C to T,synonymous SNV,20386,Vehicle_D14_2_prep2,nsp6: L256L; C766T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein D3894D,11893,12.51,D3894D,ORF1a_polyprotein,C11682T,C to T,synonymous SNV,12468,Vehicle_D14_2_prep2,nsp7: D38D; C114T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein D3933D,12010,12.11,D3933D,ORF1a_polyprotein,C11799T,C to T,synonymous SNV,30670,Vehicle_D14_2_prep2,nsp7: D77D; C231T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein L4061F,12392,23.27,L4061F,ORF1a_polyprotein,C12181T,C to T,nonsynonymous SNV,3490,Vehicle_D14_2_prep2,nsp8: L122F; C364T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein L4108F,12533,2.9,L4108F,ORF1a_polyprotein,C12322T,C to T,nonsynonymous SNV,16768,Vehicle_D14_2_prep2,nsp8: L169F; C505T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein D4163D,12700,2.45,D4163D,ORF1a_polyprotein,C12489T,C to T,synonymous SNV,24454,Vehicle_D14_2_prep2,nsp9: D26D; C78T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1a_polyprotein L4181L,12752,3.31,L4181L,ORF1a_polyprotein,C12541T,C to T,synonymous SNV,27470,Vehicle_D14_2_prep2,nsp9: L44L; C130T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein Q6624*,20080,1.4,Q6624*,ORF1ab_polyprotein,C19870T,C to T,stopgain,6582,Vehicle_D14_2_prep2,endoRNAse: Q175*; C523T
+240212_GSU_CL_002_turb_veh_D14_2_prep2_S20_L001.fastq.gz,ORF1ab_polyprotein W6800*,20610,1.12,W6800*,ORF1ab_polyprotein,G20400A,G to A,stopgain,536,Vehicle_D14_2_prep2,2'-O-ribose_methyltransferase: W5*; G15A
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein L64L,403,1,L64L,ORF1ab_polyprotein,T192A,T to A,synonymous SNV,7212,Vehicle_D14_3_prep2,leader_protein: L64L; T192A
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein A478T,1643,1.01,A478T,ORF1ab_polyprotein,G1432A,G to A,nonsynonymous SNV,790,Vehicle_D14_3_prep2,nsp2: A298T; G892A
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein E489K,1676,1.74,E489K,ORF1ab_polyprotein,G1465A,G to A,nonsynonymous SNV,460,Vehicle_D14_3_prep2,nsp2: E309K; G925A
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein V491V,1684,1.73,V491V,ORF1ab_polyprotein,G1473A,G to A,synonymous SNV,462,Vehicle_D14_3_prep2,nsp2: V311V; G933A
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein S588S,1975,83.56,S588S,ORF1ab_polyprotein,T1764G,T to G,synonymous SNV,22656,Vehicle_D14_3_prep2,nsp2: S408S; T1224G
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein A1049V,3357,1.17,A1049V,ORF1ab_polyprotein,C3146T,C to T,nonsynonymous SNV,1030,Vehicle_D14_3_prep2,nsp3: A231V; C692T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein G1419G,4468,2.33,G1419G,ORF1ab_polyprotein,T4257C,T to C,synonymous SNV,344,Vehicle_D14_3_prep2,nsp3: G601G; T1803C
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein L2292F,7085,11.55,L2292F,ORF1ab_polyprotein,C6874T,C to T,nonsynonymous SNV,6700,Vehicle_D14_3_prep2,nsp3: L1474F; C4420T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein T2300I,7110,1.27,T2300I,ORF1ab_polyprotein,C6899T,C to T,nonsynonymous SNV,628,Vehicle_D14_3_prep2,nsp3: T1482I; C4445T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein S2303F,7119,1.27,S2303F,ORF1ab_polyprotein,C6908T,C to T,nonsynonymous SNV,630,Vehicle_D14_3_prep2,nsp3: S1485F; C4454T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein F2334F,7213,1.01,F2334F,ORF1ab_polyprotein,C7002T,C to T,synonymous SNV,3360,Vehicle_D14_3_prep2,nsp3: F1516F; C4548T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein D2662D,8197,2.18,D2662D,ORF1ab_polyprotein,C7986T,C to T,synonymous SNV,6522,Vehicle_D14_3_prep2,nsp3: D1844D; C5532T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein Y2983Y,9160,1.13,Y2983Y,ORF1ab_polyprotein,C8949T,C to T,synonymous SNV,4790,Vehicle_D14_3_prep2,nsp4: Y220Y; C660T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein A3079A,9448,3.81,A3079A,ORF1ab_polyprotein,C9237T,C to T,synonymous SNV,8722,Vehicle_D14_3_prep2,nsp4: A316A; C948T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein F3138F,9625,1.75,F3138F,ORF1ab_polyprotein,C9414T,C to T,synonymous SNV,458,Vehicle_D14_3_prep2,nsp4: F375F; C1125T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein N3414N,10453,1.27,N3414N,ORF1ab_polyprotein,C10242T,C to T,synonymous SNV,22718,Vehicle_D14_3_prep2,3C-like_proteinase: N151N; C453T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein Q3452K,10565,1.69,Q3452K,ORF1ab_polyprotein,C10354A,C to A,nonsynonymous SNV,830,Vehicle_D14_3_prep2,3C-like_proteinase: Q189K; C565A
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein N3537S,10821,4.67,N3537S,ORF1ab_polyprotein,A10610G,A to G,nonsynonymous SNV,16370,Vehicle_D14_3_prep2,3C-like_proteinase: N274S; A821G
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein L3606F,11029,5.02,L3606F,ORF1ab_polyprotein,G10818T,G to T,nonsynonymous SNV,4548,Vehicle_D14_3_prep2,nsp6: L37F; G111T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein T3646I,11148,1.76,T3646I,ORF1ab_polyprotein,C10937T,C to T,nonsynonymous SNV,10324,Vehicle_D14_3_prep2,nsp6: T77I; C230T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein Y3810Y,11641,4.21,Y3810Y,ORF1ab_polyprotein,C11430T,C to T,synonymous SNV,18228,Vehicle_D14_3_prep2,nsp6: Y241Y; C723T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein K3836K,11719,15.59,K3836K,ORF1ab_polyprotein,A11508G,A to G,synonymous SNV,27644,Vehicle_D14_3_prep2,nsp6: K267K; A801G
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein L3896L,11899,1.8,L3896L,ORF1ab_polyprotein,C11688T,C to T,synonymous SNV,12448,Vehicle_D14_3_prep2,nsp7: L40L; C120T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein D3933D,12010,6.44,D3933D,ORF1ab_polyprotein,C11799T,C to T,synonymous SNV,28587,Vehicle_D14_3_prep2,nsp7: D77D; C231T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein P3949S,12056,2.52,P3949S,ORF1ab_polyprotein,C11845T,C to T,nonsynonymous SNV,28487,Vehicle_D14_3_prep2,nsp8: P10S; C28T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein L4108F,12533,2.51,L4108F,ORF1ab_polyprotein,C12322T,C to T,nonsynonymous SNV,15871,Vehicle_D14_3_prep2,nsp8: L169F; C505T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein C4784C,14562,1.32,C4784C,ORF1ab_polyprotein,C14352T,C to T,synonymous SNV,5434,Vehicle_D14_3_prep2,RNA-dependent_RNA_polymerase_rib_26: C395C; C1185T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein N4989N,15177,2.1,N4989N,ORF1ab_polyprotein,C14967T,C to T,synonymous SNV,8364,Vehicle_D14_3_prep2,RNA-dependent_RNA_polymerase_rib_26: N600N; C1800T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein P5493S,16687,4.59,P5493S,ORF1ab_polyprotein,C16477T,C to T,nonsynonymous SNV,12598,Vehicle_D14_3_prep2,helicase: P172S; C514T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein Y5862C,17795,2.39,Y5862C,ORF1ab_polyprotein,A17585G,A to G,nonsynonymous SNV,586,Vehicle_D14_3_prep2,helicase: Y541C; A1622G
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein L5960L,18090,2.72,L5960L,ORF1ab_polyprotein,A17880G,A to G,synonymous SNV,368,Vehicle_D14_3_prep2,3'-to-5'_exonuclease: L38L; A114G
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein P6315L,19154,3.07,P6315L,ORF1ab_polyprotein,C18944T,C to T,nonsynonymous SNV,7232,Vehicle_D14_3_prep2,3'-to-5'_exonuclease: P393L; C1178T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein G6378E,19343,1.26,G6378E,ORF1ab_polyprotein,G19133A,G to A,nonsynonymous SNV,1582,Vehicle_D14_3_prep2,3'-to-5'_exonuclease: G456E; G1367A
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein V6570V,19920,3.03,V6570V,ORF1ab_polyprotein,C19710T,C to T,synonymous SNV,12434,Vehicle_D14_3_prep2,endoRNAse: V121V; C363T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein V6635I,20113,3.03,V6635I,ORF1ab_polyprotein,G19903A,G to A,nonsynonymous SNV,6600,Vehicle_D14_3_prep2,endoRNAse: V186I; G556A
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein S6690S,20280,1.05,S6690S,ORF1ab_polyprotein,T20070C,T to C,synonymous SNV,764,Vehicle_D14_3_prep2,endoRNAse: S241S; T723C
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein K6955R,21074,1.36,K6955R,ORF1ab_polyprotein,A20864G,A to G,nonsynonymous SNV,3224,Vehicle_D14_3_prep2,2'-O-ribose_methyltransferase: K160R; A479G
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1ab_polyprotein L7070F,21418,1.53,L7070F,ORF1ab_polyprotein,C21208T,C to T,nonsynonymous SNV,2620,Vehicle_D14_3_prep2,2'-O-ribose_methyltransferase: L275F; C823T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,surface_glycoprotein T19I,21555,1.66,T19I,surface_glycoprotein,C56T,C to T,nonsynonymous SNV,1324,Vehicle_D14_3_prep2,-
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,surface_glycoprotein F43F,21628,1.24,F43F,surface_glycoprotein,C129T,C to T,synonymous SNV,970,Vehicle_D14_3_prep2,-
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,surface_glycoprotein T167I,21999,1.2,T167I,surface_glycoprotein,C500T,C to T,nonsynonymous SNV,5158,Vehicle_D14_3_prep2,-
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,surface_glycoprotein P174P,22021,2.53,P174P,surface_glycoprotein,T522C,T to C,synonymous SNV,316,Vehicle_D14_3_prep2,-
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,surface_glycoprotein R190G,22067,1.05,R190G,surface_glycoprotein,A568G,A to G,nonsynonymous SNV,380,Vehicle_D14_3_prep2,-
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,surface_glycoprotein Q218H,22153,2.73,Q218H,surface_glycoprotein,G654T,G to T,nonsynonymous SNV,5999,Vehicle_D14_3_prep2,-
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,surface_glycoprotein R679W,23534,19.49,R679W,surface_glycoprotein,C2035T,C to T,nonsynonymous SNV,15434,Vehicle_D14_3_prep2,-
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF3a_protein L127F,25699,1.17,L127F,ORF3a_protein,C379T,C to T,nonsynonymous SNV,13214,Vehicle_D14_3_prep2,-
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF3a_protein L129F,25705,1.07,L129F,ORF3a_protein,C385T,C to T,nonsynonymous SNV,13238,Vehicle_D14_3_prep2,-
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF3a_protein G196V,25907,1.4,G196V,ORF3a_protein,G587T,G to T,nonsynonymous SNV,1862,Vehicle_D14_3_prep2,-
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF6_protein T45T,27264,1.37,T45T,ORF6_protein,T135G,T to G,synonymous SNV,146,Vehicle_D14_3_prep2,-
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF10_protein Y26Y,29563,40.49,Y26Y,ORF10_protein,C78T,C to T,synonymous SNV,45048,Vehicle_D14_3_prep2,-
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein L64L,403,1,L64L,ORF1a_polyprotein,T192A,T to A,synonymous SNV,7212,Vehicle_D14_3_prep2,leader_protein: L64L; T192A
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein A478T,1643,1.01,A478T,ORF1a_polyprotein,G1432A,G to A,nonsynonymous SNV,790,Vehicle_D14_3_prep2,nsp2: A298T; G892A
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein E489K,1676,1.74,E489K,ORF1a_polyprotein,G1465A,G to A,nonsynonymous SNV,460,Vehicle_D14_3_prep2,nsp2: E309K; G925A
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein V491V,1684,1.73,V491V,ORF1a_polyprotein,G1473A,G to A,synonymous SNV,462,Vehicle_D14_3_prep2,nsp2: V311V; G933A
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein S588S,1975,83.56,S588S,ORF1a_polyprotein,T1764G,T to G,synonymous SNV,22656,Vehicle_D14_3_prep2,nsp2: S408S; T1224G
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein A1049V,3357,1.17,A1049V,ORF1a_polyprotein,C3146T,C to T,nonsynonymous SNV,1030,Vehicle_D14_3_prep2,nsp3: A231V; C692T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein G1419G,4468,2.33,G1419G,ORF1a_polyprotein,T4257C,T to C,synonymous SNV,344,Vehicle_D14_3_prep2,nsp3: G601G; T1803C
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein L2292F,7085,11.55,L2292F,ORF1a_polyprotein,C6874T,C to T,nonsynonymous SNV,6700,Vehicle_D14_3_prep2,nsp3: L1474F; C4420T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein T2300I,7110,1.27,T2300I,ORF1a_polyprotein,C6899T,C to T,nonsynonymous SNV,628,Vehicle_D14_3_prep2,nsp3: T1482I; C4445T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein S2303F,7119,1.27,S2303F,ORF1a_polyprotein,C6908T,C to T,nonsynonymous SNV,630,Vehicle_D14_3_prep2,nsp3: S1485F; C4454T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein F2334F,7213,1.01,F2334F,ORF1a_polyprotein,C7002T,C to T,synonymous SNV,3360,Vehicle_D14_3_prep2,nsp3: F1516F; C4548T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein D2662D,8197,2.18,D2662D,ORF1a_polyprotein,C7986T,C to T,synonymous SNV,6522,Vehicle_D14_3_prep2,nsp3: D1844D; C5532T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein Y2983Y,9160,1.13,Y2983Y,ORF1a_polyprotein,C8949T,C to T,synonymous SNV,4790,Vehicle_D14_3_prep2,nsp4: Y220Y; C660T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein A3079A,9448,3.81,A3079A,ORF1a_polyprotein,C9237T,C to T,synonymous SNV,8722,Vehicle_D14_3_prep2,nsp4: A316A; C948T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein F3138F,9625,1.75,F3138F,ORF1a_polyprotein,C9414T,C to T,synonymous SNV,458,Vehicle_D14_3_prep2,nsp4: F375F; C1125T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein N3414N,10453,1.27,N3414N,ORF1a_polyprotein,C10242T,C to T,synonymous SNV,22718,Vehicle_D14_3_prep2,3C-like_proteinase: N151N; C453T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein Q3452K,10565,1.69,Q3452K,ORF1a_polyprotein,C10354A,C to A,nonsynonymous SNV,830,Vehicle_D14_3_prep2,3C-like_proteinase: Q189K; C565A
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein N3537S,10821,4.67,N3537S,ORF1a_polyprotein,A10610G,A to G,nonsynonymous SNV,16370,Vehicle_D14_3_prep2,3C-like_proteinase: N274S; A821G
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein L3606F,11029,5.02,L3606F,ORF1a_polyprotein,G10818T,G to T,nonsynonymous SNV,4548,Vehicle_D14_3_prep2,nsp6: L37F; G111T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein T3646I,11148,1.76,T3646I,ORF1a_polyprotein,C10937T,C to T,nonsynonymous SNV,10324,Vehicle_D14_3_prep2,nsp6: T77I; C230T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein Y3810Y,11641,4.21,Y3810Y,ORF1a_polyprotein,C11430T,C to T,synonymous SNV,18228,Vehicle_D14_3_prep2,nsp6: Y241Y; C723T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein K3836K,11719,15.59,K3836K,ORF1a_polyprotein,A11508G,A to G,synonymous SNV,27644,Vehicle_D14_3_prep2,nsp6: K267K; A801G
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein L3896L,11899,1.8,L3896L,ORF1a_polyprotein,C11688T,C to T,synonymous SNV,12448,Vehicle_D14_3_prep2,nsp7: L40L; C120T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein D3933D,12010,6.44,D3933D,ORF1a_polyprotein,C11799T,C to T,synonymous SNV,28587,Vehicle_D14_3_prep2,nsp7: D77D; C231T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein P3949S,12056,2.52,P3949S,ORF1a_polyprotein,C11845T,C to T,nonsynonymous SNV,28487,Vehicle_D14_3_prep2,nsp8: P10S; C28T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF1a_polyprotein L4108F,12533,2.51,L4108F,ORF1a_polyprotein,C12322T,C to T,nonsynonymous SNV,15871,Vehicle_D14_3_prep2,nsp8: L169F; C505T
+240212_GSU_CL_003_turb_veh_D14_3_prep2_S21_L001.fastq.gz,ORF10_protein Q29*,29570,1.11,Q29*,ORF10_protein,C85T,C to T,stopgain,45462,Vehicle_D14_3_prep2,-
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein S588S,1975,5.28,S588S,ORF1ab_polyprotein,T1764G,T to G,synonymous SNV,12926,Vehicle_D14_4_prep2,nsp2: S408S; T1224G
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein T1242P,3935,5.14,T1242P,ORF1ab_polyprotein,A3724C,A to C,nonsynonymous SNV,1830,Vehicle_D14_4_prep2,nsp3: T424P; A1270C
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein Y1658Y,5185,1.01,Y1658Y,ORF1ab_polyprotein,C4974T,C to T,synonymous SNV,12732,Vehicle_D14_4_prep2,nsp3: Y840Y; C2520T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein L2292F,7085,1.2,L2292F,ORF1ab_polyprotein,C6874T,C to T,nonsynonymous SNV,4160,Vehicle_D14_4_prep2,nsp3: L1474F; C4420T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein A2375S,7334,1.03,A2375S,ORF1ab_polyprotein,G7123T,G to T,nonsynonymous SNV,780,Vehicle_D14_4_prep2,nsp3: A1557S; G4669T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein I2858M,8785,6.35,I2858M,ORF1ab_polyprotein,A8574G,A to G,nonsynonymous SNV,3244,Vehicle_D14_4_prep2,nsp4: I95M; A285G
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein A3079A,9448,1.86,A3079A,ORF1ab_polyprotein,C9237T,C to T,synonymous SNV,11072,Vehicle_D14_4_prep2,nsp4: A316A; C948T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein R3542C,10835,1.94,R3542C,ORF1ab_polyprotein,C10624T,C to T,nonsynonymous SNV,14638,Vehicle_D14_4_prep2,3C-like_proteinase: R279C; C835T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein Y3800Y,11611,2.07,Y3800Y,ORF1ab_polyprotein,C11400T,C to T,synonymous SNV,1832,Vehicle_D14_4_prep2,nsp6: Y231Y; C693T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein D3933D,12010,6.14,D3933D,ORF1ab_polyprotein,C11799T,C to T,synonymous SNV,19834,Vehicle_D14_4_prep2,nsp7: D77D; C231T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein T3956I,12078,1.13,T3956I,ORF1ab_polyprotein,C11867T,C to T,nonsynonymous SNV,19776,Vehicle_D14_4_prep2,nsp8: T17I; C50T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein L6099F,18505,4.24,L6099F,ORF1ab_polyprotein,C18295T,C to T,nonsynonymous SNV,9348,Vehicle_D14_4_prep2,3'-to-5'_exonuclease: L177F; C529T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein P6654S,20170,4.1,P6654S,ORF1ab_polyprotein,C19960T,C to T,nonsynonymous SNV,2686,Vehicle_D14_4_prep2,endoRNAse: P205S; C613T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein F6662F,20196,6.7,F6662F,ORF1ab_polyprotein,C19986T,C to T,synonymous SNV,3166,Vehicle_D14_4_prep2,endoRNAse: F213F; C639T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein I6923V,20977,1.83,I6923V,ORF1ab_polyprotein,A20767G,A to G,nonsynonymous SNV,766,Vehicle_D14_4_prep2,2'-O-ribose_methyltransferase: I128V; A382G
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein K6955R,21074,18.57,K6955R,ORF1ab_polyprotein,A20864G,A to G,nonsynonymous SNV,4922,Vehicle_D14_4_prep2,2'-O-ribose_methyltransferase: K160R; A479G
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,surface_glycoprotein P174P,22021,1.62,P174P,surface_glycoprotein,T522C,T to C,synonymous SNV,370,Vehicle_D14_4_prep2,-
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,surface_glycoprotein K187N,22060,1.08,K187N,surface_glycoprotein,A561T,A to T,nonsynonymous SNV,370,Vehicle_D14_4_prep2,-
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF3a_protein L129F,25705,1.02,L129F,ORF3a_protein,C385T,C to T,nonsynonymous SNV,8440,Vehicle_D14_4_prep2,-
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,envelope_protein T30I,26261,2.07,T30I,envelope_protein,C89T,C to T,nonsynonymous SNV,28428,Vehicle_D14_4_prep2,-
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,membrane_glycoprotein F53F,26609,2.92,F53F,membrane_glycoprotein,C159T,C to T,synonymous SNV,4796,Vehicle_D14_4_prep2,-
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF7a_protein G70D,27530,1.86,G70D,ORF7a_protein,G209A,G to A,nonsynonymous SNV,15450,Vehicle_D14_4_prep2,-
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF7a_protein L116L,27669,15.48,L116L,ORF7a_protein,C348T,C to T,synonymous SNV,31739,Vehicle_D14_4_prep2,-
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF10_protein R24C,29555,1.04,R24C,ORF10_protein,C70T,C to T,nonsynonymous SNV,19316,Vehicle_D14_4_prep2,-
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF10_protein Y26Y,29563,25.95,Y26Y,ORF10_protein,C78T,C to T,synonymous SNV,19324,Vehicle_D14_4_prep2,-
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF10_protein T38I,29598,2.77,T38I,ORF10_protein,C113T,C to T,nonsynonymous SNV,10194,Vehicle_D14_4_prep2,-
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1a_polyprotein S588S,1975,5.28,S588S,ORF1a_polyprotein,T1764G,T to G,synonymous SNV,12926,Vehicle_D14_4_prep2,nsp2: S408S; T1224G
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1a_polyprotein T1242P,3935,5.14,T1242P,ORF1a_polyprotein,A3724C,A to C,nonsynonymous SNV,1830,Vehicle_D14_4_prep2,nsp3: T424P; A1270C
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1a_polyprotein Y1658Y,5185,1.01,Y1658Y,ORF1a_polyprotein,C4974T,C to T,synonymous SNV,12732,Vehicle_D14_4_prep2,nsp3: Y840Y; C2520T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1a_polyprotein L2292F,7085,1.2,L2292F,ORF1a_polyprotein,C6874T,C to T,nonsynonymous SNV,4160,Vehicle_D14_4_prep2,nsp3: L1474F; C4420T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1a_polyprotein A2375S,7334,1.03,A2375S,ORF1a_polyprotein,G7123T,G to T,nonsynonymous SNV,780,Vehicle_D14_4_prep2,nsp3: A1557S; G4669T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1a_polyprotein I2858M,8785,6.35,I2858M,ORF1a_polyprotein,A8574G,A to G,nonsynonymous SNV,3244,Vehicle_D14_4_prep2,nsp4: I95M; A285G
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1a_polyprotein A3079A,9448,1.86,A3079A,ORF1a_polyprotein,C9237T,C to T,synonymous SNV,11072,Vehicle_D14_4_prep2,nsp4: A316A; C948T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1a_polyprotein R3542C,10835,1.94,R3542C,ORF1a_polyprotein,C10624T,C to T,nonsynonymous SNV,14638,Vehicle_D14_4_prep2,3C-like_proteinase: R279C; C835T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1a_polyprotein Y3800Y,11611,2.07,Y3800Y,ORF1a_polyprotein,C11400T,C to T,synonymous SNV,1832,Vehicle_D14_4_prep2,nsp6: Y231Y; C693T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1a_polyprotein D3933D,12010,6.14,D3933D,ORF1a_polyprotein,C11799T,C to T,synonymous SNV,19834,Vehicle_D14_4_prep2,nsp7: D77D; C231T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1a_polyprotein T3956I,12078,1.13,T3956I,ORF1a_polyprotein,C11867T,C to T,nonsynonymous SNV,19776,Vehicle_D14_4_prep2,nsp8: T17I; C50T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein Q2373*,7328,1.03,Q2373*,ORF1ab_polyprotein,C7117T,C to T,stopgain,780,Vehicle_D14_4_prep2,nsp3: Q1555*; C4663T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1ab_polyprotein Q6624*,20080,1.37,Q6624*,ORF1ab_polyprotein,C19870T,C to T,stopgain,4244,Vehicle_D14_4_prep2,endoRNAse: Q175*; C523T
+240212_GSU_CL_004_turb_veh_D14_4_prep2_S22_L001.fastq.gz,ORF1a_polyprotein Q2373*,7328,1.03,Q2373*,ORF1a_polyprotein,C7117T,C to T,stopgain,780,Vehicle_D14_4_prep2,nsp3: Q1555*; C4663T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein I222V,875,1.57,I222V,ORF1ab_polyprotein,A664G,A to G,nonsynonymous SNV,52982,Vehicle_D14_6_prep2,nsp2: I42V; A124G
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein M584V,1961,4.19,M584V,ORF1ab_polyprotein,A1750G,A to G,nonsynonymous SNV,39804,Vehicle_D14_6_prep2,nsp2: M404V; A1210G
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein S588S,1975,13.74,S588S,ORF1ab_polyprotein,T1764G,T to G,synonymous SNV,35486,Vehicle_D14_6_prep2,nsp2: S408S; T1224G
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein R724T,2382,1.91,R724T,ORF1ab_polyprotein,G2171C,G to C,nonsynonymous SNV,3658,Vehicle_D14_6_prep2,nsp2: R544T; G1631C
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein A1314V,4152,1.24,A1314V,ORF1ab_polyprotein,C3941T,C to T,nonsynonymous SNV,28120,Vehicle_D14_6_prep2,nsp3: A496V; C1487T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein P1977P,6142,2.31,P1977P,ORF1ab_polyprotein,C5931A,C to A,synonymous SNV,7518,Vehicle_D14_6_prep2,nsp3: P1159P; C3477A
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein L2179L,6746,1.83,L2179L,ORF1ab_polyprotein,T6535C,T to C,synonymous SNV,4488,Vehicle_D14_6_prep2,nsp3: L1361L; T4081C
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein N2272N,7027,1.87,N2272N,ORF1ab_polyprotein,C6816T,C to T,synonymous SNV,12312,Vehicle_D14_6_prep2,nsp3: N1454N; C4362T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein L2609L,8038,35.68,L2609L,ORF1ab_polyprotein,C7827T,C to T,synonymous SNV,18494,Vehicle_D14_6_prep2,nsp3: L1791L; C5373T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein T2676T,8239,13.75,T2676T,ORF1ab_polyprotein,C8028T,C to T,synonymous SNV,6344,Vehicle_D14_6_prep2,nsp3: T1858T; C5574T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein G2863V,8799,1.3,G2863V,ORF1ab_polyprotein,G8588T,G to T,nonsynonymous SNV,4774,Vehicle_D14_6_prep2,nsp4: G100V; G299T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein I3055I,9376,1.29,I3055I,ORF1ab_polyprotein,C9165T,C to T,synonymous SNV,23294,Vehicle_D14_6_prep2,nsp4: I292I; C876T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein A3079A,9448,2.35,A3079A,ORF1ab_polyprotein,C9237T,C to T,synonymous SNV,20498,Vehicle_D14_6_prep2,nsp4: A316A; C948T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein T3598I,11004,1.19,T3598I,ORF1ab_polyprotein,C10793T,C to T,nonsynonymous SNV,7242,Vehicle_D14_6_prep2,nsp6: T29I; C86T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein L3606F,11029,4.65,L3606F,ORF1ab_polyprotein,G10818T,G to T,nonsynonymous SNV,8268,Vehicle_D14_6_prep2,nsp6: L37F; G111T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein V3629V,11098,1.64,V3629V,ORF1ab_polyprotein,C10887T,C to T,synonymous SNV,23353,Vehicle_D14_6_prep2,nsp6: V60V; C180T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein T3646I,11148,2.52,T3646I,ORF1ab_polyprotein,C10937T,C to T,nonsynonymous SNV,17750,Vehicle_D14_6_prep2,nsp6: T77I; C230T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein Y3741Y,11434,2.07,Y3741Y,ORF1ab_polyprotein,C11223T,C to T,synonymous SNV,17454,Vehicle_D14_6_prep2,nsp6: Y172Y; C516T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein F3782F,11557,1.11,F3782F,ORF1ab_polyprotein,C11346T,C to T,synonymous SNV,13680,Vehicle_D14_6_prep2,nsp6: F213F; C639T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein D3933D,12010,3.66,D3933D,ORF1ab_polyprotein,C11799T,C to T,synonymous SNV,44291,Vehicle_D14_6_prep2,nsp7: D77D; C231T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein N3934S,12012,5.8,N3934S,ORF1ab_polyprotein,A11801G,A to G,nonsynonymous SNV,44209,Vehicle_D14_6_prep2,nsp7: N78S; A233G
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein T4028I,12294,2.86,T4028I,ORF1ab_polyprotein,C12083T,C to T,nonsynonymous SNV,46252,Vehicle_D14_6_prep2,nsp8: T89I; C266T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein L4108F,12533,3.61,L4108F,ORF1ab_polyprotein,C12322T,C to T,nonsynonymous SNV,22112,Vehicle_D14_6_prep2,nsp8: L169F; C505T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein A4130A,12601,1.25,A4130A,ORF1ab_polyprotein,C12390A,C to A,synonymous SNV,3850,Vehicle_D14_6_prep2,nsp8: A191A; C573A
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein V4813L,14647,1.12,V4813L,ORF1ab_polyprotein,G14437T,G to T,nonsynonymous SNV,6618,Vehicle_D14_6_prep2,RNA-dependent_RNA_polymerase_rib_26: V424L; G1270T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein P4850S,14758,1.32,P4850S,ORF1ab_polyprotein,C14548T,C to T,nonsynonymous SNV,26728,Vehicle_D14_6_prep2,RNA-dependent_RNA_polymerase_rib_26: P461S; C1381T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein P5946P,18048,1.27,P5946P,ORF1ab_polyprotein,T17838C,T to C,synonymous SNV,630,Vehicle_D14_6_prep2,3'-to-5'_exonuclease: P24P; T72C
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein F6139L,18625,1.09,F6139L,ORF1ab_polyprotein,T18415C,T to C,nonsynonymous SNV,12938,Vehicle_D14_6_prep2,3'-to-5'_exonuclease: F217L; T649C
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein G6378E,19343,1.16,G6378E,ORF1ab_polyprotein,G19133A,G to A,nonsynonymous SNV,2232,Vehicle_D14_6_prep2,3'-to-5'_exonuclease: G456E; G1367A
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein S6603F,20018,3.95,S6603F,ORF1ab_polyprotein,C19808T,C to T,nonsynonymous SNV,25182,Vehicle_D14_6_prep2,endoRNAse: S154F; C461T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein A6680D,20249,1.08,A6680D,ORF1ab_polyprotein,C20039A,C to A,nonsynonymous SNV,1486,Vehicle_D14_6_prep2,endoRNAse: A231D; C692A
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein K6705K,20325,2.39,K6705K,ORF1ab_polyprotein,A20115G,A to G,synonymous SNV,8612,Vehicle_D14_6_prep2,endoRNAse: K256K; A768G
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein P6719S,20365,1.23,P6719S,ORF1ab_polyprotein,C20155T,C to T,nonsynonymous SNV,8794,Vehicle_D14_6_prep2,endoRNAse: P270S; C808T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein S6764F,20501,1.29,S6764F,ORF1ab_polyprotein,C20291T,C to T,nonsynonymous SNV,622,Vehicle_D14_6_prep2,endoRNAse: S315F; C944T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1ab_polyprotein K6955R,21074,5.94,K6955R,ORF1ab_polyprotein,A20864G,A to G,nonsynonymous SNV,8076,Vehicle_D14_6_prep2,2'-O-ribose_methyltransferase: K160R; A479G
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,surface_glycoprotein Y28Y,21583,1.05,Y28Y,surface_glycoprotein,C84T,C to T,synonymous SNV,2110,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,surface_glycoprotein H652Y,23453,6.83,H652Y,surface_glycoprotein,C1954T,C to T,nonsynonymous SNV,39182,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,surface_glycoprotein V1101V,24802,4.54,V1101V,surface_glycoprotein,A3303T,A to T,synonymous SNV,7046,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF3a_protein L129F,25705,1.38,L129F,ORF3a_protein,C385T,C to T,nonsynonymous SNV,15325,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF6_protein N39I,27245,1.1,N39I,ORF6_protein,A116T,A to T,nonsynonymous SNV,362,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,nucleocapsid_phosphoprotein R68L,28404,1.1,R68L,nucleocapsid_phosphoprotein,G203T,G to T,nonsynonymous SNV,141763,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,nucleocapsid_phosphoprotein D144N,28631,4.59,D144N,nucleocapsid_phosphoprotein,G430A,G to A,nonsynonymous SNV,33906,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,nucleocapsid_phosphoprotein S180S,28741,1.51,S180S,nucleocapsid_phosphoprotein,T540C,T to C,synonymous SNV,41594,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,nucleocapsid_phosphoprotein R209K,28827,1.19,R209K,nucleocapsid_phosphoprotein,G626A,G to A,nonsynonymous SNV,67356,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF10_protein A8A,29509,1.24,A8A,ORF10_protein,T24C,T to C,synonymous SNV,13060,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF10_protein T12M,29520,3.59,T12M,ORF10_protein,C35T,C to T,nonsynonymous SNV,13052,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF10_protein N25N,29560,6.74,N25N,ORF10_protein,C75T,C to T,synonymous SNV,19974,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF10_protein Y26Y,29563,16.94,Y26Y,ORF10_protein,C78T,C to T,synonymous SNV,19830,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF10_protein N34N,29587,4.66,N34N,ORF10_protein,C102T,C to T,synonymous SNV,22728,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF10_protein L37L,29596,3.02,L37L,ORF10_protein,C111T,C to T,synonymous SNV,10662,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF10_protein T38I,29598,2.82,T38I,ORF10_protein,C113T,C to T,nonsynonymous SNV,10630,Vehicle_D14_6_prep2,-
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein I222V,875,1.57,I222V,ORF1a_polyprotein,A664G,A to G,nonsynonymous SNV,52982,Vehicle_D14_6_prep2,nsp2: I42V; A124G
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein M584V,1961,4.19,M584V,ORF1a_polyprotein,A1750G,A to G,nonsynonymous SNV,39804,Vehicle_D14_6_prep2,nsp2: M404V; A1210G
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein S588S,1975,13.74,S588S,ORF1a_polyprotein,T1764G,T to G,synonymous SNV,35486,Vehicle_D14_6_prep2,nsp2: S408S; T1224G
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein R724T,2382,1.91,R724T,ORF1a_polyprotein,G2171C,G to C,nonsynonymous SNV,3658,Vehicle_D14_6_prep2,nsp2: R544T; G1631C
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein A1314V,4152,1.24,A1314V,ORF1a_polyprotein,C3941T,C to T,nonsynonymous SNV,28120,Vehicle_D14_6_prep2,nsp3: A496V; C1487T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein P1977P,6142,2.31,P1977P,ORF1a_polyprotein,C5931A,C to A,synonymous SNV,7518,Vehicle_D14_6_prep2,nsp3: P1159P; C3477A
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein L2179L,6746,1.83,L2179L,ORF1a_polyprotein,T6535C,T to C,synonymous SNV,4488,Vehicle_D14_6_prep2,nsp3: L1361L; T4081C
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein N2272N,7027,1.87,N2272N,ORF1a_polyprotein,C6816T,C to T,synonymous SNV,12312,Vehicle_D14_6_prep2,nsp3: N1454N; C4362T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein L2609L,8038,35.68,L2609L,ORF1a_polyprotein,C7827T,C to T,synonymous SNV,18494,Vehicle_D14_6_prep2,nsp3: L1791L; C5373T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein T2676T,8239,13.75,T2676T,ORF1a_polyprotein,C8028T,C to T,synonymous SNV,6344,Vehicle_D14_6_prep2,nsp3: T1858T; C5574T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein G2863V,8799,1.3,G2863V,ORF1a_polyprotein,G8588T,G to T,nonsynonymous SNV,4774,Vehicle_D14_6_prep2,nsp4: G100V; G299T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein I3055I,9376,1.29,I3055I,ORF1a_polyprotein,C9165T,C to T,synonymous SNV,23294,Vehicle_D14_6_prep2,nsp4: I292I; C876T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein A3079A,9448,2.35,A3079A,ORF1a_polyprotein,C9237T,C to T,synonymous SNV,20498,Vehicle_D14_6_prep2,nsp4: A316A; C948T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein T3598I,11004,1.19,T3598I,ORF1a_polyprotein,C10793T,C to T,nonsynonymous SNV,7242,Vehicle_D14_6_prep2,nsp6: T29I; C86T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein L3606F,11029,4.65,L3606F,ORF1a_polyprotein,G10818T,G to T,nonsynonymous SNV,8268,Vehicle_D14_6_prep2,nsp6: L37F; G111T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein V3629V,11098,1.64,V3629V,ORF1a_polyprotein,C10887T,C to T,synonymous SNV,23353,Vehicle_D14_6_prep2,nsp6: V60V; C180T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein T3646I,11148,2.52,T3646I,ORF1a_polyprotein,C10937T,C to T,nonsynonymous SNV,17750,Vehicle_D14_6_prep2,nsp6: T77I; C230T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein Y3741Y,11434,2.07,Y3741Y,ORF1a_polyprotein,C11223T,C to T,synonymous SNV,17454,Vehicle_D14_6_prep2,nsp6: Y172Y; C516T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein F3782F,11557,1.11,F3782F,ORF1a_polyprotein,C11346T,C to T,synonymous SNV,13680,Vehicle_D14_6_prep2,nsp6: F213F; C639T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein D3933D,12010,3.66,D3933D,ORF1a_polyprotein,C11799T,C to T,synonymous SNV,44291,Vehicle_D14_6_prep2,nsp7: D77D; C231T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein N3934S,12012,5.8,N3934S,ORF1a_polyprotein,A11801G,A to G,nonsynonymous SNV,44209,Vehicle_D14_6_prep2,nsp7: N78S; A233G
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein T4028I,12294,2.86,T4028I,ORF1a_polyprotein,C12083T,C to T,nonsynonymous SNV,46252,Vehicle_D14_6_prep2,nsp8: T89I; C266T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein L4108F,12533,3.61,L4108F,ORF1a_polyprotein,C12322T,C to T,nonsynonymous SNV,22112,Vehicle_D14_6_prep2,nsp8: L169F; C505T
+240212_GSU_CL_006_turb_veh_D14_6_prep2_S24_L001.fastq.gz,ORF1a_polyprotein A4130A,12601,1.25,A4130A,ORF1a_polyprotein,C12390A,C to A,synonymous SNV,3850,Vehicle_D14_6_prep2,nsp8: A191A; C573A

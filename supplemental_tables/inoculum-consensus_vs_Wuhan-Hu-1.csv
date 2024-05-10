@@ -1,0 +1,26 @@
+Amino Acid Change,CDS,CDS Codon Number,CDS Position,Change,Codon Change,Annotation
+P -> L,E,71,212,C -> T,CCU -> CTU,E:P71L
+T -> I,N,205,614,C -> T,ACU -> ATU,N:T205I
+P -> L,nsp12,323,968,C -> T,CCU -> CTU,nsp12:P323L
+G -> G,nsp14,17,51,G -> A,GGG -> GGA,nsp14:G17G
+R -> R,nsp15,257,771,T -> G,CGU -> CGG,nsp15:R257R
+T -> T,nsp2,629,1887,A -> T,ACA -> ACT,nsp2:T629T
+T -> I,nsp2,85,254,C -> T,ACC -> ATC,nsp2:T85I
+K -> N,nsp3,837,2511,G -> T,AAG -> AAT,nsp3:K837N
+S -> S,nsp3,106,318,C -> T,UUC -> UUT,nsp3:S106S
+K -> R,nsp5,90,269,A -> G,AAG -> AGG,nsp5:K90R
+P -> L,nsp5,252,755,C -> T,CCU -> CTU,nsp5:P252L
+ -> delSGF,nsp6,106,316,delSGF,"UCU,GGU,UUU -> ",nsp6:106delSGF
+G -> C,ORF3a,172,514,G -> T,GGU -> TGU,ORF3a:G172C
+Q -> H,ORF3a,57,171,G -> T,CAG -> CAT,ORF3a:Q57H
+S -> L,ORF3a,171,512,C -> T,UCA -> UTA,ORF3a:S171L
+F -> F,ORF8,120,360,C -> T,UUC -> UUT,ORF8:F120F
+ -> delLLA,S,240,719,delLLA,"ACU,UUA,CUU,GCU -> ACU",S:240delLLA
+A -> V,S,701,2102,C -> T,GCA -> GTA,S:A701V
+D -> G,S,215,644,A -> G,GAU -> GGU,S:D215G
+D -> G,S,614,1841,A -> G,GAU -> GGU,S:D614G
+D -> A,S,80,239,A -> C,GAU -> GCU,S:D80A
+E -> K,S,484,1450,G -> A,GAA -> AAA,S:E484K
+K -> N,S,417,1251,G -> T,AAG -> AAT,S:K417N
+L -> F,S,18,52,C -> T,CUU -> TUU,S:L18F
+N -> Y,S,501,1501,A -> T,AAU -> TAU,S:N501Y

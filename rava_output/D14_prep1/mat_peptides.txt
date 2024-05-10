@@ -1,0 +1,16 @@
+leader_protein,212,751
+nsp2,752,2665
+nsp3,2666,8500
+nsp4,8501,10000
+3C-like_proteinase,10001,10918
+nsp6,10919,11779
+nsp7,11780,12028
+nsp8,12029,12622
+nsp9,12623,12961
+nsp10,12962,13378
+RNA-dependent_RNA_polymerase_rib_26,13405,16173
+nsp11,13379,13417
+helicase,16174,17976
+3'-to-5'_exonuclease,17977,19557
+endoRNAse,19558,20595
+2'-O-ribose_methyltransferase,20596,21489
