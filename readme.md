@@ -1,9 +1,13 @@
 # This repository contains the data used to generage figure 3H as well as supplemental information about the virus sequences derived from trubinates of immunocompromised mice with long-term SARS-CoV-2 beta variant infections and late-onset antiviral treatment. 
 
 ## <ins>**rava_output** contains the following data:</ins>
-1. RAVA variant analysis results with respect to the inoculum consensus genome (https://github.com/greninger-lab/lava/tree/Rava_Slippage-Patch). Variant analysis results are separated by NGS library replicate (1 or 2) and timepoint (14, 21, or 28 dpi). There are also results for inoculum specimens at passage 3 and passage 4 (metagenomic and amplicon preparation).
+1. RAVA output directories, which contain variant analysis results with respect to the inoculum consensus genome. (https://github.com/greninger-lab/lava/tree/Rava_Slippage-Patch).
+
+		- The RAVA output directories are separated by NGS library replicate (1 or 2) and timepoint (14, 21, or 28 dpi).
+   		- There are also results for inoculum specimens at passage 3 and passage 4 (metagenomic and amplicon preparation).
+		- These directories contain interactive html plots.
    
-3. The inoculum consensus fasta sequence and gff annotation files.  
+4. The inoculum consensus fasta sequence and gff annotation files.  
 
 ## <ins>**bin** contains the following scripts:</ins>
 1. **figure3H_NGS_final.R**, which will produce the figure 3H.
